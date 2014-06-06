@@ -1,0 +1,1 @@
+This is a Git repository excercise. So far everything is going well.
